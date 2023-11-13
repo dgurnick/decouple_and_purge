@@ -25,7 +25,8 @@
 > Goals for this year are in quarters (stabilise personally, locally, financially, then look outward).
 > Be a source of gravity for others.
 
-> It's 3/4 time in the style of Elliott Smith.
+> It's 3/4 time in the style of Elliott Smith. Should be a bit aggressive.
+> It's also very normal rhyme here. Which is ok for pop culture.
 
 ``` text
 -- Verse
@@ -71,6 +72,7 @@ Of words and of meanings not understood.
 The constant lost feelings.
 
 -- TODO: Less poem more music.
+-- TODO: Should be light and ethereal.
 
 ```
 
@@ -111,6 +113,7 @@ Maybe this time for real
 -- TODO: Other verse
 -- TODO: bridge
 -- TODO: chorus and outro
+-- TODO: will be grunge-ish. Cuz why not?
 
 ```
 
@@ -122,7 +125,7 @@ Maybe this time for real
 > Me. Birds. Ants. All the same.
 > Looking for a place to happen and finding stops along the way.
 
-> This is a walking C-Am progression. 
+> This is a walking C-Am progression. Another light song. Perhaps too light. Let's adjust.
 
 ``` text
 I can't deny
@@ -173,6 +176,9 @@ Is it better to believe in the
 Distraction?
 Or do you need to be free of the
 Distraction?
+
+-- TODO: This is another Am7 song with a hammer on the C to F. Could be a bit redundant. Rethink and don't be afraid of a Capo.
+
 ```
 
 ## Fallacy of Fail
@@ -181,6 +187,12 @@ Distraction?
 > **Theme:**
 > "Never failed to fail" has no meaning.
 > Friends need strength. Relationships need balance.
+
+``` text
+
+-- TODO: This one will need some thought. Concept is good but should be heavy and aggressive.
+
+```
 
 ## Ghosts
 
@@ -192,6 +204,13 @@ Distraction?
 > Star clusters. Universe is expanding FTL.
 > Easy to mis-interpret. We lost the art of talking.
 
+``` text 
+
+-- TODO: Needs a phased guitar part. Not too distorted.
+-- TODO: Also needs, you know, to be an actual song.
+
+```
+
 ## The Reliability of Predictability
 
 > **Concept:** Being & encouraging change
@@ -202,6 +221,12 @@ Distraction?
 > If you can't say something good, swallow your tongue.
 > Aim for reciprocation and the long term.
 
+``` text
+
+-- TODO: This might just be instrumental based on what I send Patty last year. Good progression but maybe a bit abstract. Think about making it more listenable. But for who?
+
+```
+
 ## So Much Home
 
 > **Concept:** Being strange. Being comfortable where ever you are.
@@ -209,6 +234,13 @@ Distraction?
 > Don't judge. Don't share. Don't be the gossip.
 > Don't push. Listen. Don't make things awkward.
 > Avoid toxicity. No. Ignore it.
+
+``` text 
+
+-- TODO: Again needs to be made into a song. Poems exist for this. GVG material
+
+```
+
 ---
 
 ## TODO
