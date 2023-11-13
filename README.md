@@ -156,7 +156,7 @@ away
 
 > **Concept:** Not living in your own skin.
 > **Theme:**
-> It's an old theme
+> It's an old theme.
 > You can't shake life into a rock.
 
 ``` text
