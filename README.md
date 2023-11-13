@@ -25,13 +25,36 @@
 > Goals for this year are in quarters (stabilise personally, locally, financially, then look outward).
 > Be a source of gravity for others.
 
+> It's 3/4 time in the style of Elliott Smith.
+
 ``` text
+-- Verse
 Put my hat on the post of the bed
 Fixed the hair on the back of my head
 Close the blinds or they're gonna see
 What their daughter is doing to me
 
+-- Chorus (kind of)
 The hands that inspire, are keeping me down
+The lack of dependency
+With me as the clown
+
+-- Verse
+Lay beside. And shuffle the air.
+Feel content just to be there.
+Through the ocean, the waves and the sea.
+Smile through drama and just let it be.
+
+-- Chorus (kind of)
+The eyes without shadows
+Cold hardness of ground
+A floor without contact
+We'll see you around.
+
+-- TODO: probably needs a bridge
+-- TODO: another verse and chorus
+-- TODO: outro
+
 ```
 
 ## Finer Print
@@ -42,10 +65,13 @@ The hands that inspire, are keeping me down
 > People are acting in their comfort zone and not thinking objectively.
 
 ``` text
-The notes. The doctors. The silence.
+The notes. The points. The silence.
 The texts. The distance. Quiet violence.
 Of words and of meanings not understood.
 The constant lost feelings.
+
+-- TODO: Less poem more music.
+
 ```
 
 ## Static vs Noise
@@ -56,6 +82,38 @@ The constant lost feelings.
 > It's ok to rely on yourself.
 > Technology is poison.
 
+``` text
+Two by two
+Whatcha gonna do?
+Dynamo's gone
+And the cat lost its tongue again
+Maybe this time for real
+
+A time ago
+When no one was home
+We kicked down the door
+For more
+To have a look inside
+Maybe this time for real
+
+-- chorus 
+You're the saddest tree
+I ever did see
+But you grew so well
+In the shade of bigger leaves
+
+Let me in
+For original sin
+The puddle's gone dry
+From the stretch and the sting of the pouring rain
+Maybe this time for real
+
+-- TODO: Other verse
+-- TODO: bridge
+-- TODO: chorus and outro
+
+```
+
 ## Lay in Wait
 
 > **Concept:** Expecting change.
@@ -63,6 +121,8 @@ The constant lost feelings.
 > Sat by the river with a book.
 > Me. Birds. Ants. All the same.
 > Looking for a place to happen and finding stops along the way.
+
+> This is a walking C-Am progression. 
 
 ``` text
 I can't deny
