@@ -19,10 +19,10 @@
 
 ## Decoupling
 
-> **Concept**: Self-Isolation. Never-materializing Optimism.
-> **Theme**
+> **Concept:** Self-Isolation. Never-materializing Optimism.
+> **Theme:**
 > Still stay hopeful that this is just a temporary thing.
-> Goals for this year are in quarters (stabilise personally, locally, financially, then look outward)
+> Goals for this year are in quarters (stabilise personally, locally, financially, then look outward).
 > Be a source of gravity for others.
 
 ``` text
@@ -36,8 +36,8 @@ The hands that inspire, are keeping me down
 
 ## Finer Print
 
-> **Concept**: Information that isn't.
-> **Theme**
+> **Concept:** Information that isn't.
+> **Theme:**
 > Clinical assessment says nothing.
 > People are acting in their comfort zone and not thinking objectively.
 
@@ -50,21 +50,21 @@ The constant lost feelings.
 
 ## Static vs Noise
 
-> **Concept**: Self-reflection with a constant ringing in your ears
-> **Theme**
+> **Concept:** Self-reflection with a constant ringing in your ears
+> **Theme:**
 > Stop reaching out if it's not needed.
 > It's ok to rely on yourself.
 > Technology is poison.
 
 ## Lay in Wait
 
-> **Concept**: Expecting change.
-> **Theme**
+> **Concept:** Expecting change.
+> **Theme:**
 > Sat by the river with a book.
 > Me. Birds. Ants. All the same.
 > Looking for a place to happen and finding stops along the way.
 
-```
+``` text
 I can't deny
 What was found beneath the ground
 A life or two who let me be control
@@ -88,10 +88,11 @@ Old friend, console me
 Mothers ears have left me here
 away
 ```
+
 ## Stella
 
-> **Concept**: Not living in your own skin.
-> **Theme**
+> **Concept:** Not living in your own skin.
+> **Theme:**
 > It's an old theme
 > You can't shake life into a rock.
 
@@ -116,15 +117,15 @@ Distraction?
 
 ## Fallacy of Fail
 
-> **Concept**: Staying optimistic. Rejecting status quo.
-> **Theme**
+> **Concept:** Staying optimistic. Rejecting status quo.
+> **Theme:**
 > "Never failed to fail" has no meaning.
 > Friends need strength. Relationships need balance.
 
 ## Ghosts
 
-> **Concept**: The innocence of not knowing how to communicate.
-> **Theme**
+> **Concept:** The innocence of not knowing how to communicate.
+> **Theme:**
 > Sign of the times. Selfish self-interest?
 > Silence (especially among friends) = know they damage but can't help themselves.
 > Move quietly in space.
@@ -133,18 +134,20 @@ Distraction?
 
 ## The Reliability of Predictability
 
-> **Concept**: Being & encouraging change
-> **Theme**
+> **Concept:** Being & encouraging change
+> **Theme:**
 > We are all the same profile. We are all fools.
 > Nothing changes. We are all predictable disappointments without intention.
 > Sometimes you need to try to shake life into a rock.
+> If you can't say something good, swallow your tongue.
 > Aim for reciprocation and the long term.
 
 ## So Much Home
 
-> **Concept**: Being strange. Being comfortable where ever you are.
-> **Theme**
+> **Concept:** Being strange. Being comfortable where ever you are.
+> **Theme:**
 > Don't judge. Don't share. Don't be the gossip.
+> Don't push. Listen. Don't make things awkward.
 > Avoid toxicity. No. Ignore it.
 ---
 
