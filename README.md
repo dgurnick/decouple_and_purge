@@ -207,6 +207,7 @@ Distraction?
 ``` text 
 
 -- TODO: Needs a phased guitar part. Not too distorted.
+-- TODO: Definitely electronic and should have a good beat. Think about changing the metre mid-song.
 -- TODO: Also needs, you know, to be an actual song.
 
 ```
