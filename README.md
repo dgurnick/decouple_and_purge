@@ -223,7 +223,7 @@ Distraction?
 
 ``` text
 
--- TODO: This might just be instrumental based on what I send Patty last year. Good progression but maybe a bit abstract. Think about making it more listenable. But for who?
+-- TODO: This might just be instrumental based on what I sent Patty last year. Good progression but maybe a bit abstract. Think about making it more listenable. But for who?
 
 ```
 
