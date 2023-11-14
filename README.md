@@ -273,7 +273,7 @@ subtle comprehension: what's to come?
 and what's to be?
 
 have a look my child
-at the launching pad outside
+at the shores and stars outside
 all that's yours and mine
 
 -- chorus
