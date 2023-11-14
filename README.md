@@ -8,9 +8,9 @@
 1. [Decouple \& Purge](#decouple--purge)
    1. [Decoupling](#decoupling)
    2. [Finer Print](#finer-print)
-   3. [Static vs Noise](#static-vs-noise)
-   4. [Lay in Wait](#lay-in-wait)
-   5. [Stella](#stella)
+   3. [Lay in Wait](#lay-in-wait)
+   4. [Stella](#stella)
+   5. [Bigger Leaves](#bigger-leaves)
    6. [Fallacy of Fail](#fallacy-of-fail)
    7. [Ghosts](#ghosts)
    8. [The Reliability of Predictability](#the-reliability-of-predictability)
@@ -74,47 +74,6 @@ The constant lost feelings.
 
 -- TODO: Less poem more music.
 -- TODO: Should be light and ethereal.
-
-```
-
-## Static vs Noise
-
-> **Concept:** Self-reflection with a constant ringing in your ears
-> **Theme:**
-> Stop reaching out if it's not needed.
-> It's ok to rely on yourself.
-> Technology is poison.
-
-``` text
-Two by two
-Whatcha gonna do?
-Dynamo's gone
-And the cat lost its tongue again
-Maybe this time for real
-
-A time ago
-When no one was home
-We kicked down the door
-For more
-To have a look inside
-Maybe this time for real
-
--- chorus 
-You're the saddest tree
-I ever did see
-But you grew so well
-In the shade of bigger leaves
-
-Let me in
-For original sin
-The puddle's gone dry
-From the stretch and the sting of the pouring rain
-Maybe this time for real
-
--- TODO: Other verse
--- TODO: bridge
--- TODO: chorus and outro
--- TODO: will be grunge-ish. Cuz why not?
 
 ```
 
@@ -192,6 +151,54 @@ but now, Stella are you home?
 
 ```
 
+## Bigger Leaves
+
+> **Concept:** Growing out of the shadow
+> **Theme:**
+> Enjoying life & making memories.
+> Sharing and openness.
+> From the Story of Jaco.
+
+``` text
+two-by-two, whatcha gonna do?
+dynamo's gone, 
+and the cat has lost his tongue again
+maybe this time for good
+
+cross the street with naked feet
+the nail slides in but the pain
+seems to disappear maybe this time for good
+
+    you're the saddest tree i ever did see
+    yet you grew so well in the shade of bigger leaves
+
+false alarm, no one was harmed
+the puddle's gone dry from the stretch and the sting
+of the pouring rain
+maybe this time for real
+
+a time ago when no one was home
+we kicked down the door for more to have a peek inside
+maybe this time for real
+
+    you're the saddest tree i ever did see
+    yet you grew so well in the shade of bigger leaves
+
+let me in, for original sin the pendulum swings
+and the spring unwinds to rest a while
+maybe this time for real
+
+two-by-two whatcha gonna do?
+dynamo's gone and the cat has lost his tongue again
+maybe this time for good
+
+    you're the saddest tree i ever did see
+    yet you grew so well in the shade of bigger leaves
+
+    you're the saddest tree i ever did see
+    yet you grew so well in the shade of bigger leaves
+```
+
 ## Fallacy of Fail
 
 > **Concept:** Staying optimistic. Rejecting status quo.
@@ -255,12 +262,13 @@ but now, Stella are you home?
 
 ## Angel
 
-> **Concept:** Beauty out of abandonmen.
+> **Concept:** Beauty out of abandonment.
 > **Theme:**
 > Using past to build a future.
 > The absence of light is also power.
+> Should have a good rhythm. Ideally with drums, bass, 2 guitar parts.
 
-``` text 
+``` text
 
 [C# -> F#]
 this living angel, is such a sight to see
@@ -272,13 +280,12 @@ then it's time to hit the shore
 is this existence all there is?
 or is there more?
 
--- chorus
-[F# -> A -> C#]
-even the shadow of a man
-can leave (his) footprints in the sand
-think it over
-as this dimension takes a turn
-to calm all those concerned
+    [F# -> A -> C#]
+    even the shadow of a man
+    can leave (his) footprints in the sand
+    think it over
+    as this dimension takes a turn
+    to calm all those concerned
 
 living inner tension
 living in a dream
@@ -289,12 +296,11 @@ have a look my child
 at the shores and stars outside
 all that's yours and mine
 
--- chorus
-even the shadow of a man
-can leave (his) footprints in the sand
-even the shadow of a man
-can leave (his) footprints in the sand
-think it over
+    even the shadow of a man
+    can leave (his) footprints in the sand
+    even the shadow of a man
+    can leave (his) footprints in the sand
+    think it over
 
 ```
 
