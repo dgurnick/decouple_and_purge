@@ -271,7 +271,7 @@ maybe this time for good
 ``` text
 
 [C# -> F#]
-this living angel, is such a sight to see
+this living Angel, is such a sight to see
 though the heater has departed
 leaving just the upkeep
 
