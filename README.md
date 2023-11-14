@@ -170,13 +170,23 @@ And now, Stella are you home?
 There's a wall of idea
 Trapped inside
 With imagination
-no one will find
+still to find
 And now, Stella are you home?
 
-Is it better to believe in the
-Distraction?
-Or do you need to be free of the
-Distraction?
+    Is it better to believe in the
+    Distraction?
+    Or do you need to be free of the
+    Distraction?
+
+to act so normal is so profound
+to be indifferent as you hit the ground
+but now, Stella are you home?
+
+    Is it better to believe in the
+    Distraction?
+    Or do you need to be free of the
+    Distraction?
+
 
 -- TODO: This is another Am7 song with a hammer on the C to F. Could be a bit redundant. Rethink and don't be afraid of a Capo.
 
@@ -245,12 +255,14 @@ Distraction?
 
 ## Angel
 
-> **Concept:** Beauty out of abandonment
+> **Concept:** Beauty out of abandonmen.
 > **Theme:**
-> Using past to build a future
-> The absence of light is also power
+> Using past to build a future.
+> The absence of light is also power.
 
 ``` text 
+
+[C# -> F#]
 this living angel, is such a sight to see
 though the heater has departed
 leaving just the upkeep
@@ -261,6 +273,7 @@ is this existence all there is?
 or is there more?
 
 -- chorus
+[F# -> A -> C#]
 even the shadow of a man
 can leave (his) footprints in the sand
 think it over
