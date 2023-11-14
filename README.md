@@ -1,9 +1,8 @@
 # Decouple & Purge
 
-> **Concept**: Introspection & Optimism.
-> Possibly reusing old themes. Probably reusing old themes. (#GVG)
-> Ideally a bit chronological but the story must flow.
-
+> **Concept**: Introspection & Optimism.  
+> Possibly reusing old themes. Probably reusing old themes. (#GVG)  
+> Ideally a bit chronological but the story must flow.  
 
 1. [Decouple \& Purge](#decouple--purge)
    1. [Decoupling](#decoupling)
@@ -20,14 +19,13 @@
 
 ## Decoupling
 
-> **Concept:** Self-Isolation. Never-materializing Optimism.
-> **Theme:**
-> Still stay hopeful that this is just a temporary thing.
-> Goals for this year are in quarters (stabilise personally, locally, financially, then look outward).
-> Be a source of gravity for others.
-
-> It's 3/4 time in the style of Elliott Smith. Should be a bit aggressive.
-> It's also very normal rhyme here. Which is ok for pop culture.
+> **Concept:** Self-Isolation. Never-materializing Optimism.  
+> **Theme:**  
+> Still stay hopeful that this is just a temporary thing.  
+> Goals for this year are in quarters (stabilise personally, locally, financially, then look outward).  
+> Be a source of gravity for others.  
+> It's 3/4 time in the style of Elliott Smith. Should be a bit aggressive.  
+> It's also very normal rhyme here. Which is ok for pop culture.  
 
 ``` text
 
@@ -68,10 +66,10 @@ or perhaps it's just something inside
 
 ## Finer Print
 
-> **Concept:** Information that isn't.
-> **Theme:**
-> Clinical assessment says nothing.
-> People are acting in their comfort zone and not thinking objectively.
+> **Concept:** Information that isn't.  
+> **Theme:**  
+> Clinical assessment says nothing.  
+> People are acting in their comfort zone and not thinking objectively.  
 
 ``` text
 The notes. The points. The silence.
@@ -86,13 +84,12 @@ The constant lost feelings.
 
 ## Lay in Wait
 
-> **Concept:** Expecting change.
-> **Theme:**
-> Sat by the river with a book.
-> Me. Birds. Ants. All the same.
-> Looking for a place to happen and finding stops along the way.
-
-> This is a walking C-Am progression. Another light song. Perhaps too light. Let's adjust.
+> **Concept:** Expecting change.  
+> **Theme:**  
+> Sat by the river with a book.  
+> Me. Birds. Ants. All the same.  
+> Looking for a place to happen and finding stops along the way.  
+> This is a walking C-Am progression. Another light song. Perhaps too light. Let's adjust.  
 
 ``` text
 I can't deny
@@ -104,6 +101,22 @@ as he picks for junk along the beaches
 The wood will break
 The man just fades away
 
+    -- bridge
+    In quiet places to contemplate
+    something so familiar
+    that takes me closer to my day
+
+    those quiet places where they lie to wait
+    something so peculiar
+    that takes me closer to my day
+
+    -- chorus
+    Down down Jaco hold me
+    Another day, another crazy night away
+    Old friend, console me
+    Mothers ears have left me here
+    away
+
 The tragedy of the disappeared
 Can't believe there's nothing better
 That leads me closer to the grave
@@ -112,19 +125,20 @@ The tragedy. Is there something near?
 Something so familiar?
 That brings us close, so far away.
 
-Down down Jaco hold me
-Another day, another crazy night away
-Old friend, console me
-Mothers ears have left me here
-away
+    Down down Jaco hold me
+    Another day, another crazy night away
+    Old friend, console me
+    Mothers ears have left me here
+    away
+
 ```
 
 ## Stella
 
-> **Concept:** Not living in your own skin.
-> **Theme:**
-> It's an old theme.
-> You can't shake life into a rock.
+> **Concept:** Not living in your own skin.  
+> **Theme:**  
+> It's an old theme.  
+> You can't shake life into a rock.  
 
 ``` text
 If you beat upon it
@@ -160,11 +174,11 @@ but now, Stella are you home?
 
 ## Bigger Leaves
 
-> **Concept:** Growing out of the shadow
-> **Theme:**
-> Enjoying life & making memories.
-> Sharing and openness.
-> From the Story of Jaco.
+> **Concept:** Growing out of the shadow  
+> **Theme:**  
+> Enjoying life & making memories.  
+> Sharing and openness.  
+> From the Story of Jaco.  
 
 ``` text
 two-by-two, whatcha gonna do?
@@ -209,10 +223,10 @@ maybe this time for good
 
 ## Fallacy of Fail
 
-> **Concept:** Staying optimistic. Rejecting status quo.
-> **Theme:**
-> "Never failed to fail" has no meaning.
-> Friends need strength. Relationships need balance.
+> **Concept:** Staying optimistic. Rejecting status quo.  
+> **Theme:**  
+> "Never failed to fail" has no meaning.  
+> Friends need strength. Relationships need balance.  
 
 ``` text
 
@@ -222,15 +236,15 @@ maybe this time for good
 
 ## Ghosts
 
-> **Concept:** The innocence of not knowing how to communicate.
-> **Theme:**
-> Sign of the times. Selfish self-interest?
-> Silence (especially among friends) = know they damage but can't help themselves.
-> Move quietly in space.
-> Star clusters. Universe is expanding FTL.
-> Easy to mis-interpret. We lost the art of talking.
+> **Concept:** The innocence of not knowing how to communicate.  
+> **Theme:**  
+> Sign of the times. Selfish self-interest?  
+> Silence (especially among friends) = know they damage but can't help themselves.  
+> Move quietly in space.  
+> Star clusters. Universe is expanding FTL.  
+> Easy to mis-interpret. We lost the art of talking.  
 
-``` text 
+``` text
 
 -- TODO: Needs a phased guitar part. Not too distorted.
 -- TODO: Definitely electronic and should have a good beat. Think about changing the metre mid-song.
@@ -240,13 +254,13 @@ maybe this time for good
 
 ## The Reliability of Predictability
 
-> **Concept:** Being & encouraging change
-> **Theme:**
-> We are all the same profile. We are all fools.
-> Nothing changes. We are all predictable disappointments without intention.
-> Sometimes you need to try to shake life into a rock.
-> If you can't say something good, swallow your tongue.
-> Aim for reciprocation and the long term.
+> **Concept:** Being & encouraging change  
+> **Theme:**  
+> We are all the same profile. We are all fools.  
+> Nothing changes. We are all predictable disappointments without intention.  
+> Sometimes you need to try to shake life into a rock.  
+> If you can't say something good, swallow your tongue.  
+> Aim for reciprocation and the long term.  
 
 ``` text
 
@@ -256,13 +270,13 @@ maybe this time for good
 
 ## So Much Home
 
-> **Concept:** Being strange. Being comfortable where ever you are.
-> **Theme:**
-> Don't judge. Don't share. Don't be the gossip.
-> Don't push. Listen. Don't make things awkward.
-> Avoid toxicity. No. Ignore it.
+> **Concept:** Being strange. Being comfortable where ever you are.  
+> **Theme:**  
+> Don't judge. Don't share. Don't be the gossip.  
+> Don't push. Listen. Don't make things awkward.  
+> Avoid toxicity. No. Ignore it.  
 
-``` text 
+``` text
 
 -- TODO: Again needs to be made into a song. Poems exist for this. GVG material
 
@@ -270,11 +284,11 @@ maybe this time for good
 
 ## Angel
 
-> **Concept:** Beauty out of abandonment.
-> **Theme:**
-> Using past to build a future.
-> The absence of light is also power.
-> Should have a good rhythm. Ideally with drums, bass, 2 guitar parts.
+> **Concept:** Beauty out of abandonment.  
+> **Theme:**  
+> Using past to build a future.  
+> The absence of light is also power.  
+> Should have a good rhythm. Ideally with drums, bass, 2 guitar parts.  
 
 ``` text
 
