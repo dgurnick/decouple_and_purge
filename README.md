@@ -17,7 +17,8 @@
    10. [Angel](#angel)
    11. [Window](#window)
    12. [The Short Story of Jaco](#the-short-story-of-jaco)
-   13. [TODO](#todo)
+   13. [Jaco](#jaco)
+   14. [TODO](#todo)
 
 ## Decoupling
 
@@ -38,8 +39,12 @@ Fixed the hair on the back of my head
 Close the blinds or they're gonna see
 What their daughter is doing to me
 
+    [A -> E -> Ab -> A -> E]
+    Get me out of this place
+    And give me some sanity
+    Cuz I'm surely losing my mind
+    the mind was mine all the time
 
-    [A -> E -> Ab -> A]
     The hands that inspire, are keeping me down
     The lack of dependency
     With me as the clown
@@ -423,7 +428,7 @@ These are just the notes. Will expand the actual story line into something more 
 - The window breaks.  
 - Nothing ever survives.  
 
-**Eternal**
+**Eternal**  
 My name: Achilles. I could push you Tortoise, but you'd just pop back up and reappear ... like you've done now a thousand times. I could chase you "Tortoise", but's no matter how fast I run, you'll always be one-step away.
 
 I've asked you to reward me. To show me just one hint that you are here with me. Each time I have been disappointed. What should I do?
@@ -434,40 +439,64 @@ If I were born a spider, I would have the legs to keep balance. But I was born a
 
 Is there something in my head? Shall we find out when I'm dead? If you can prove it, I will believe it. Be aware, I am a  material, I must see this evidence.
 
-**Another Place**
+**Another Place**  
 I went on a rocket to the place with people today. So much confusion in this social stand. What is the point of it all? Standing there, in the intersection between me and them. Pants down. Pleasure. So much rage.
 
 Where is my father? What has he become? Is he again at the sea? Where the piers jettison out like some fragile, broken arms ... fragile, and wooden across the sea. Why would he leave? Did Jaco disappoint him too?
 
-**Footprints**
+**Footprints**  
 Look at this child, so innocent in their ways. Though the giver has left, I believe things will be okay. I wonder what kind of life? Perhaps existence will be less distilled than mine. I must provide this child with a way to live.
 
-**Stella**
+**Stella**  
 Hey you! It's me again, Achilles, your master. Join me to my home and I will show you Jaco. He is kind to strangers, unlike yourself who seems so distant. Why do you ignore me? Shall I show you to the place you desire? I can, you know.
 
-**The Lawn**
+**The Lawn**  
 See my lawn? It's right there behind you. Those little mountains are of my and their creation. There is still life in those mountains, more that you can ever imagine. Now so still. If you like, I will consume you into those hills. That is their purpose.
 
-**Bigger Leaves**
+**Bigger Leaves**  
 Hey, it's me, the tortoise. Remember me achilles? The one you could push but could not pop. My, how you have grown. And where is your father? I heard he has not been seen for some time. Tell him I said hello when you seem him.
 
 This place of yours seems so placid today yet somehow I have the idea that it is busy. Have you been gardening? The flowers are so vivid and straight.
 
-**Humility**
+**Humility**  
 Hello Tortoise. It is I, Achilles. I will take you now, you should be prepared.
 
-**Jaco**
+**Jaco**  
 I admit I have been deviant, but only to myself. I do not know these people you say I have destroyed. How can I be guilty of a crime upon these people if they did not refuse? How can Jaco have helped me, he does not know of this world any more. You think there's something here, in my head?
 
-**Carried Through**
+**Carried Through**  
 After so little time, I have failed. My son is nothing more than I could never be. After the protection of my home, guarding from this place some call existence, there has become nothing of that boy. If only I didn't feel so trapped in this situation. If only I could have had the imagination to create a person of their own free will.
 
-**Window**
+**Window**  
 After it all, Achilles, you are still transparent. You've never developed a character, at least nothing of color or substance. You see me? Your father. I have been successful. These dying pieces of ships and trees have given birth to my home, here under the piers. I need only that window for completion. This is an endless loop.
 
-**Cold Water**
+**Cold Water**  
 Father, you are a fool. You can not push me, as was Jaco. People speak my name when I am not present. I barely remembered your face. If you like this isolation, you must learn to bleed. This has been the way I have lived my life. It is the
 way it will end.
+
+---
+
+## Jaco
+
+In the heart of central Alberta, on a sprawling farm, a boy was born into a world of solitude. His mother's life slipped away during his birth, leaving him to enter the world without her loving embrace. His father, a quiet and stoic man, tried his best to raise the boy, but the weight of his grief and the responsibilities of the farm proved too much to bear. One day, he went mad and ran away to the distant sea, leaving behind the farm and his young son.
+
+Alone in the vastness of the farm, the boy found solace in the company of a loyal companion, a dog he named Jaco. Together, they roamed the fields and played among the crops. The only connection to the outside world was the solitary railway that ran near their farm, with a single train passing through every few days.
+
+As the years passed, the boy grew into a young teen, curious about the world beyond the farm. One day, he decided to take the train to the nearest town, hoping to find his father and discover where he had gone. Stepping off the train, he was overwhelmed by the sights and sounds of society—people rushing about, cars honking, and the constant hum of technology. It was a world he had never imagined, let alone experienced.
+
+Confused and disoriented, the boy found himself in the middle of a bustling intersection. In a moment of uninhibited curiosity, he acted on a primal urge and found pleasure with himself. Pants down to the ankle. The locals panicked, and chaos ensued. He was arrested and eventually returned to the farm, still bewildered by the complexities of the outside world.
+
+When he returned home, he discovered that Jaco had passed away, old and malnourished from the years of isolation. The boy had never experienced death before, and in a strange act of reverence, he used comics left behind by his father to stuff the dog, preserving Jaco's form as a silent and immobile companion.
+
+With time, the boy's longing for human interaction grew, and he began bringing people from the nearby town back to the farm. They were easily convinced to follow him, their trust in his innocence and isolation proving their downfall. The boy buried them in the garden, and the vegetables he planted above their graves grew robust and hearty.
+
+As he grew older, the boy amassed dozens of mounds in the garden, each one a testament to his strange and macabre ritual. Jaco, who had once been his only friend, began to decay and fall apart, a silent witness to the boy's growing obsession.
+
+But something was calling him, a mysterious force that he couldn't resist. He boarded the train again, this time with a determined purpose. He didn't stop at the familiar town near the farm but rode it to its final destination — the ocean. He had never seen the sea, never heard its siren song.
+
+At the coast, he ventured beneath a pier and discovered his father, living a hopeless existence, sheltered in an improvised structure made of driftwood and scraps washed ashore. His father pulled desperately on a makeshift window, trying to let in a sliver of light. In his desperation, the window broke, and the boy realized that nothing ever truly survives.
+
+Together, they found solace in the sea, drawn to it by an instinct they couldn't comprehend. They joined the ever-rolling waves, disappearing into the vastness of the ocean, leaving behind the farm, the garden of secrets, and the decaying form of Jaco. In the end, they were just two lost souls, seeking refuge in the relentless embrace of the sea, where the chaos and noise of the world above were silenced by the eternal depths below.
 
 ---
 
