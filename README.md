@@ -30,16 +30,19 @@
 > It's also very normal rhyme here. Which is ok for pop culture.
 
 ``` text
+
+[C# -> Ab -> A -> E]
 -- Verse
 Put my hat on the post of the bed
 Fixed the hair on the back of my head
 Close the blinds or they're gonna see
 What their daughter is doing to me
 
--- Chorus (kind of)
-The hands that inspire, are keeping me down
-The lack of dependency
-With me as the clown
+
+    [A -> E -> Ab -> A]
+    The hands that inspire, are keeping me down
+    The lack of dependency
+    With me as the clown
 
 -- Verse
 Lay beside. And shuffle the air.
@@ -47,11 +50,15 @@ Feel content just to be there.
 Through the ocean, the waves and the sea.
 Smile through drama and just let it be.
 
--- Chorus (kind of)
-The eyes without shadows
-Cold hardness of ground
-A floor without contact
-We'll see you around.
+    The eyes without shadows
+    Cold hardness of ground
+    A floor without contact
+    We'll see you around.
+
+get me out of this place
+and show me reality
+cause I think I'm losing my mind
+or perhaps it's just something inside
 
 -- TODO: probably needs a bridge
 -- TODO: another verse and chorus
@@ -184,7 +191,8 @@ maybe this time for real
     you're the saddest tree i ever did see
     yet you grew so well in the shade of bigger leaves
 
-let me in, for original sin the pendulum swings
+let me in, for original sin 
+the pendulum swings
 and the spring unwinds to rest a while
 maybe this time for real
 
@@ -282,7 +290,7 @@ or is there more?
 
     [F# -> A -> C#]
     even the shadow of a man
-    can leave (his) footprints in the sand
+    can leave a footprint in the sand
     think it over
     as this dimension takes a turn
     to calm all those concerned
@@ -297,9 +305,9 @@ at the shores and stars outside
 all that's yours and mine
 
     even the shadow of a man
-    can leave (his) footprints in the sand
+    can leave a footprint in the sand
     even the shadow of a man
-    can leave (his) footprints in the sand
+    can leave a footprint in the sand
     think it over
 
 ```
