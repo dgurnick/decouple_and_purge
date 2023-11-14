@@ -15,7 +15,8 @@
    7. [Ghosts](#ghosts)
    8. [The Reliability of Predictability](#the-reliability-of-predictability)
    9. [So Much Home](#so-much-home)
-   10. [TODO](#todo)
+   10. [Angel](#angel)
+   11. [TODO](#todo)
 
 ## Decoupling
 
@@ -239,6 +240,48 @@ Distraction?
 ``` text 
 
 -- TODO: Again needs to be made into a song. Poems exist for this. GVG material
+
+```
+
+## Angel
+
+> **Concept:** Beauty out of abandonment
+> **Theme:**
+> Using past to build a future
+> The absence of light is also power
+
+``` text 
+this living angel, is such a sight to see
+though the heater has departed
+leaving just the upkeep
+
+just one more question
+then it's time to hit the shore
+is this existence all there is?
+or is there more?
+
+-- chorus
+even the shadow of a man
+can leave (his) footprints in the sand
+think it over
+as this dimension takes a turn
+to calm all those concerned
+
+living inner tension
+living in a dream
+subtle comprehension: what's to come?
+and what's to be?
+
+have a look my child
+at the launching pad outside
+all that's yours and mine
+
+-- chorus
+even the shadow of a man
+can leave (his) footprints in the sand
+even the shadow of a man
+can leave (his) footprints in the sand
+think it over
 
 ```
 
